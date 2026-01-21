@@ -50,11 +50,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jahidIqbalBiswas&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahidIqbalBiswas&theme=tokyonight" />
 </p>
 
 ---
@@ -62,7 +62,7 @@
 ## 🌍 Where to Find Me
 - 💼 LinkedIn: https://www.linkedin.com/in/jahidiqbalbiswas
 - 🐦 Twitter: https://x.com/jahidIBiswas  
-- 🌐 Portfolio: jahidibiswas.codecanit.com  
+- 🌐 Portfolio: https://jahidibiswas.codecanit.com  
 
 ---
 
