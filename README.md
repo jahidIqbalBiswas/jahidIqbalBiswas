@@ -62,7 +62,7 @@
 ## 🌍 Where to Find Me
 - 💼 LinkedIn: https://www.linkedin.com/in/jahidiqbalbiswas
 - 🐦 Twitter: https://x.com/jahidIBiswas  
-- 🌐 Portfolio: https://jahidibiswas.codecanit.com  
+- 🌐 Portfolio: https://jahidiqbalbiswas.vercel.app
 
 ---
 
